@@ -4,7 +4,7 @@
 #include <set>
 using namespace std;
 
-void AbundantNum(int n)
+void abundant(int n)
 {
   int aCount = 0;
   while (aCount < n) {

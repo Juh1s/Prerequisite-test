@@ -26,3 +26,7 @@ void abundant(int n)
   };
   return;
 }
+
+int main() {
+  return 0;
+};

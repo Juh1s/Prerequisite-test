@@ -24,4 +24,5 @@ void abundant(int n)
     };
     i++;
   };
+  return;
 }
